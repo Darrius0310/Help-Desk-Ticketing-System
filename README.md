@@ -53,13 +53,15 @@ New User creation with specified system access:  <br/>
 <br />
 <br />
 Created new user with provided details within Active Directory:  <br/>
-<img src="https://i.imgur.com/tCmRMuk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EQ45N2R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Password Expiration Ticket Report:  <br/>
-<img src="https://i.imgur.com/kzLeujI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Added new user to necessary groups:  <br/>
+<img src="https://i.imgur.com/VEcXhG7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+New Hire Ticket Report:  <br/>
+<img src="https://i.imgur.com/3IXdMjG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
