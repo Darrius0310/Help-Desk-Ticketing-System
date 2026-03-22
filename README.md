@@ -18,23 +18,23 @@ This section demonstrates my understanding of IT Help Desk ticketing systems and
 <h2>→Internet Outage</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Internet Outage Ticket: <br/>
+<img src="https://i.imgur.com/6EKswtS.png" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Isolated incident on 3rd floor only | Reboot 3rd Floor Switch:  <br/>
+<img src="https://i.imgur.com/p9CwQxR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Issue still persists | Reboot Server B where 3rd Floor Switch is located to fix issue: <br/>
+<img src="https://i.imgur.com/DtXqEQE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- <h2>Resetting Password</h2>
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Internet Outage Ticket Report:  <br/>
+<img src="https://i.imgur.com/gRUyKLB.png" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<h2>→Password Reset</h2>
 Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
