@@ -34,18 +34,32 @@ Internet Outage Ticket Report:  <br/>
 <img src="https://i.imgur.com/gRUyKLB.png" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<h2>→Password Reset</h2>
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>→Password Reset Ticket</h2>
+Password Expired Ticket:  <br/>
+<img src="https://i.imgur.com/a2JHTmR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Utilizing Active Directory to reset user password | Provide temporary password:  <br/>
+<img src="https://i.imgur.com/tCmRMuk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- <h2>New Hire user setup</h2>
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Password Expiration Ticket Report:  <br/>
+<img src="https://i.imgur.com/kzLeujI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<h2>→New Hire Ticket</h2>
+New User creation with specified system access:  <br/>
+<img src="https://i.imgur.com/1npn9AL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Created new user with provided details within Active Directory:  <br/>
+<img src="https://i.imgur.com/tCmRMuk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Password Expiration Ticket Report:  <br/>
+<img src="https://i.imgur.com/kzLeujI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 <!--
